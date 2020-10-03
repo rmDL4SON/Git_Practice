@@ -1,0 +1,52 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+    background-color: rgb(175, 146, 135);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width:50%;
+}
+
+th, td {
+    border: 1px solid black;
+    border-spacing: 15px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+td {
+    background-color: rgb(110, 115, 117);
+    padding: 2px;
+    
+}
+
+p {
+    text-anchor: unset;
+    text-underline-position: below;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+div {
+    margin: 5px;
+    padding: 2px;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#top {
+    font-size: 30px;
+}
+#middle {
+    font-size: 25px;
+}
+
+.name {
+    font-family: cursive;
+}
